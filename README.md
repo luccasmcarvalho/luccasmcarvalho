@@ -12,7 +12,7 @@
 
 <img height='150em' src ='https://github-readme-stats.vercel.app/api/top-langs/?username=luccasmcarvalho&layout=compact&theme=dark'>
 
-<img height='360em' src ='https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&layout=compact&theme=dark'>
+<img height='360em' src ='https://github-readme-stats.vercel.app/api/wakatime?username=luccasmcarvalho&layout=compact&layout=compact&theme=dark'>
 
 </div>
 
