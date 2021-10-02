@@ -44,7 +44,7 @@
 <img height = '28em' src ='https://img.shields.io/static/v1?label=&message=Adobe Photoshop &?style=for-the-badge&logo=adobephotoshop&color=black' alt ="Adobe Photoshop">
 <img height = '28em' src ='https://img.shields.io/static/v1?label=&message=Adobe Premiere Pro &?style=for-the-badge&logo=adobepremierepro&color=black' alt ="Adobe Premiere Pro">
 </br>
-
+<img height = '28em' src ='https://img.shields.io/static/v1?label=&message=Markdown&?style=for-the-badge&logo=markdown&color=black' alt ="Markdown">
 
  
 </div>
