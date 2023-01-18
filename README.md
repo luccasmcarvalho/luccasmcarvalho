@@ -63,6 +63,13 @@
 
 
 ### Em breve deixarei aqui alguns repositórios de projetos que desenvolvo ou desenvolvi de própria altoria 
+
+<div align= 'center'>
+
+ [![General badge](https://img.shields.io/badge/app--switch--theme--flutter-projeto_finalizado-lightgreen)](https://github.com/luccasmcarvalho/app-switch-theme-flutter)
+ 
+
+
 ### E outros na qual contribui para algum projeto.
 
 
