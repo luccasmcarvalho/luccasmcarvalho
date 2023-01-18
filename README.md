@@ -1,6 +1,6 @@
 ## Bem vindos ao meu github
 <div align= 'center'>
-- 👨‍💻 Me chamo Luccas Matheus, tenho 25 anos, sou graduando em Ciência da Computação, editor e criador de conteúdo áudiovisual e sou desenvolvedor.
+- 👨‍💻 Me chamo Luccas Matheus, tenho 25 anos, sou graduado em Ciência da Computação, sou desenvolvedor preferindo atuar em Front-end, como hoobies sou editor e criador de conteúdo áudiovisual, além de começar a me aventurar como streamer.
 </br>
 </div>
 
@@ -62,6 +62,8 @@
 ##
 
 
+### Em breve deixarei aqui alguns repositórios de projetos que desenvolvo ou desenvolvi de própria altoria 
+### E outros na qual contribui para algum projeto.
 
 
 
