@@ -1,6 +1,9 @@
 ## Bem vindos ao meu github
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=luccasmcarvalho&label=Profile%20views&color=0e75b6&style=flat" alt="luccasmcarvalho" /> </p>
+
+
 <div align= 'center'>
-- 👨‍💻 Me chamo Luccas Matheus, tenho 25 anos, sou graduado em Ciência da Computação, sou desenvolvedor preferindo atuar em Front-end, como hoobies sou editor e criador de conteúdo áudiovisual, além de começar a me aventurar como streamer.
+- 👋 👨‍💻 Me chamo Luccas Matheus, tenho 25 anos, sou graduado em Ciência da Computação, sou desenvolvedor preferindo atuar em Front-end, como hoobies sou editor e criador de conteúdo áudiovisual, além de começar a me aventurar como streamer.
 </br>
 </div>
 
@@ -10,8 +13,8 @@
 <div align= 'center'>
  
  <div align= 'center'>
-<img height = '28em' src ='https://img.shields.io/static/v1?label=Twitter&labelColor=blue&message=@luccasmcarvalho&?style=for-the-badge&logo=twitter&color=black' alt ="Twitter">
-<img height = '28em' src ='https://img.shields.io/static/v1?label=LinkedIn&labelColor=blue&message=luccasmatheus&?style=for-the-badge&logo=linkedin&color=black' alt ="LinkedIn">
+  <a href="https://twitter.com/luccasmcarvalho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" alt="luccasmcarvalho" /></a>
+<a href="https://linkedin.com/in/luccasmatheus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luccasmatheus" height="30" width="40" /></a>
  </div>
 </div>
 
@@ -20,9 +23,17 @@
 ## Meu Git
 
 <div align= 'center'>
-<img height='150em' src ='https://github-readme-stats.vercel.app/api?username=luccasmcarvalho&show_icons=true&count_private=true&theme=dark&include_all_commits=true'>
-
-<img height='150em' src ='https://github-readme-stats.vercel.app/api/top-langs/?username=luccasmcarvalho&layout=compact&theme=dark'>
+ 
+<img src="https://github-profile-trophy.vercel.app/?username=luccasmcarvalho" alt="luccasmcarvalho" />
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luccasmcarvalho&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luccasmcarvalho&show_icons=true&count_private=true&theme=transparent&include_all_commits=true)
+ 
+ 
+ 
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luccasmcarvalho&theme=dark" alt="luccasmcarvalho" /></p>
 
 </div>
 
@@ -62,15 +73,17 @@
 ##
 
 
-### Em breve deixarei aqui alguns repositórios de projetos que desenvolvo ou desenvolvi de própria altoria 
+### Alguns dos meus projetos
 
 <div align= 'center'>
 
- [![General badge](https://img.shields.io/badge/app--switch--theme--flutter-projeto_finalizado-lightgreen)](https://github.com/luccasmcarvalho/app-switch-theme-flutter)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luccasmcarvalho&repo=app-switch-theme-flutter&theme=dark)](https://github.com/luccasmcarvalho/app-switch-theme-flutter)
  
 
 
-### E outros na qual contribui para algum projeto.
+### Projetos que contribui 
+ 
+       EM BREVE  
 
 
 
