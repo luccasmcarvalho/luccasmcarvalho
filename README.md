@@ -81,7 +81,7 @@
  
 
 
-### Projetos que contribui 
+### Projetos que já contribui ou contribuo 
  
        EM BREVE  
 
