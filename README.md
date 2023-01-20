@@ -68,6 +68,7 @@
 </br>
 <img height = '28em' src ='https://img.shields.io/static/v1?label=&message=Python&?style=for-the-badge&logo=python&color=black' alt ="AWS">
 <img height = '28em' src ='https://img.shields.io/static/v1?label=&message=React Native&?style=for-the-badge&logo=react&color=black' alt ="Alexa">
+<img height = '28em' src ='https://img.shields.io/static/v1?label=&message=PHP&?style=for-the-badge&logo=php&color=black' alt ="PHP">
 </br>
 
 ##
