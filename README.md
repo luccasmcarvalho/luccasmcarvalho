@@ -3,7 +3,7 @@
 
 
 <div align= 'center'>
-- 👋 👨‍💻 Me chamo Luccas Matheus, tenho 25 anos, sou graduado em Ciência da Computação, sou desenvolvedor preferindo atuar em Front-end, como hoobies sou editor e criador de conteúdo áudiovisual, além de começar a me aventurar como streamer.
+- 👋 👨‍💻 Me chamo Luccas Matheus, tenho 26 anos, sou graduado em Ciência da Computação, sou desenvolvedor preferindo atuar em Front-end, como hoobies sou editor e criador de conteúdo áudiovisual, além de começar a me aventurar como streamer.
 </br>
 </div>
 
