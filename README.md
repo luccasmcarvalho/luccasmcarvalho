@@ -1,7 +1,7 @@
 <div align= 'center'>
 
 ## Bem vindos ao meu github
- <img src="https://komarev.com/ghpvc/?username=luccasmcarvalho&label=Profile%20views&color=0e75b6&style=flat" alt="luccasmcarvalho" /> </p>
+ <img src="https://komarev.com/ghpvc/?username=luccasmcarvalho&label=Total_de_visualizações&color=1caf0c&style=for-the-badge" alt="luccasmcarvalho" /> </p>
 
 
 
