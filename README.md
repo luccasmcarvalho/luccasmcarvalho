@@ -21,19 +21,19 @@
 
 ##
 
-## Meu Git
+## Sobre meu git 
 
 
+  ![trophy](https://github-profile-trophy.vercel.app/?username=luccasmcarvalho&theme=gitdimmed&no-bg=true&no-frame=true&column=4)
  
-  ![trophy](https://github-profile-trophy.vercel.app/?username=luccasmcarvalho&theme=gitdimmed&no-bg=true&no-frame=true&column=8)
+
  
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luccasmcarvalho&theme=dark)
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luccasmcarvalho&theme=dark)
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luccasmcarvalho&show_icons=true&count_private=true&theme=dark&include_all_commits=true)
- 
- 
- 
+  
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luccasmcarvalho&theme=dark" alt="luccasmcarvalho" /></p>
+ 
 
 
 ##
