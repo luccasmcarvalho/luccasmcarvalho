@@ -25,12 +25,11 @@
 
 
  
-<img src="https://github-profile-trophy.vercel.app/?username=luccasmcarvalho" alt="luccasmcarvalho" />
+  ![trophy](https://github-profile-trophy.vercel.app/?username=luccasmcarvalho&theme=gitdimmed&no-bg=true&no-frame=true&column=8)
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luccasmcarvalho&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luccasmcarvalho&theme=dark)
  
- 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luccasmcarvalho&show_icons=true&count_private=true&theme=transparent&include_all_commits=true)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luccasmcarvalho&show_icons=true&count_private=true&theme=dark&include_all_commits=true)
  
  
  
@@ -78,12 +77,10 @@
 
 
 
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luccasmcarvalho&repo=app-switch-theme-flutter&theme=dark)](https://github.com/luccasmcarvalho/app-switch-theme-flutter)
+ 
+ 
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luccasmcarvalho&repo=Bot_Discord_JS&theme=dark)](https://github.com/luccasmcarvalho/Bot_Discord_JS)
  
- 
- 
-
 
 
 ### Projetos que já contribui ou contribuo 
