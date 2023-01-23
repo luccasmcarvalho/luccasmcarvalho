@@ -1,6 +1,6 @@
 <div align= 'center'>
 
-## Bem vindos ao meu github
+## Bem vindos ao meu perfil do GitHub
  <img src="https://komarev.com/ghpvc/?username=luccasmcarvalho&label=Total_de_visualizações&color=1caf0c&style=for-the-badge" alt="luccasmcarvalho" /> </p>
 
 
@@ -79,6 +79,9 @@
 
 
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luccasmcarvalho&repo=app-switch-theme-flutter&theme=dark)](https://github.com/luccasmcarvalho/app-switch-theme-flutter)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luccasmcarvalho&repo=Bot_Discord_JS&theme=dark)](https://github.com/luccasmcarvalho/Bot_Discord_JS)
+ 
+ 
  
 
 
