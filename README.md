@@ -75,13 +75,10 @@
 
 ### Alguns dos meus projetos
 
-
-
- 
  
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luccasmcarvalho&repo=Bot_Discord_JS&theme=dark)](https://github.com/luccasmcarvalho/Bot_Discord_JS)
  
-
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luccasmcarvalho&repo=app-switch-theme-flutter&theme=dark)](https://github.com/luccasmcarvalho/app-switch-theme-flutter)
 
 ### Projetos que já contribui ou contribuo 
  
