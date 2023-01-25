@@ -1,22 +1,21 @@
 <div align= 'center'>
 
-## Bem vindos ao meu perfil do GitHub
- <img src="https://komarev.com/ghpvc/?username=luccasmcarvalho&label=Total_de_visualizações&color=1caf0c&style=for-the-badge" alt="luccasmcarvalho" /> </p>
+# Bem vindos ao meu perfil do GitHub
+ 
+ ![CounterViews](https://komarev.com/ghpvc/?username=luccasmcarvalho&label=Total_de_visualizações&color=1caf0c&style=for-the-badge)
 
 
 
-👋 👨‍💻 Me chamo Luccas Matheus, tenho 26 anos, sou graduado em Ciência da Computação, sou desenvolvedor preferindo atuar em Front-end, como hoobies sou editor e criador de conteúdo áudiovisual, além de começar a me aventurar como streamer.
+👋 👨‍💻 Me chamo Luccas Matheus tenho 26 anos, sou graduado em Bacharel de Ciência da Computação, sou desenvolvedor com preferência em atuar na área de Front-end, como hoobies sou editor, criador de conteúdo áudiovisual e brincando agora na área de streaming. Com ideias de incentivar a comunidade de desenvolvimento a mostrar e compartilhar conhecimentos através de livestrings programando!
 </br>
 
 ##
 
 ### Onde me encontrar
 
-
-  <a href="https://twitter.com/luccasmcarvalho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" alt="luccasmcarvalho" /></a> <span> ← Meu Twitter </span>
-  
-  
-<a href="https://linkedin.com/in/luccasmatheus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luccasmatheus" height="30" width="40" /></a> <span> ← Meu LinkedIn </span>
+ [![Twitter Follow](https://img.shields.io/badge/Twitter-%40luccasmcarvalho-blue?style=for-the-badge&logo=twitter)](https://twitter.com/luccasmcarvalho)
+ [![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-Luccas%20Matheus-blue?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/luccasmatheus/)
+ [![GitLab Follow](https://img.shields.io/badge/Gitlab-%40luccasmcarvalho-orange?style=for-the-badge&logo=gitlab)](https://www.gitlab.com/luccasmcarvalho/)
 
 
 ##
@@ -28,47 +27,42 @@
  
 
  
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luccasmcarvalho&theme=dark)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luccasmcarvalho&theme=dark)
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luccasmcarvalho&show_icons=true&count_private=true&theme=dark&include_all_commits=true)
-  
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luccasmcarvalho&theme=dark" alt="luccasmcarvalho" /></p>
+ ![All Github Data](https://github-readme-streak-stats.herokuapp.com/?user=luccasmcarvalho&theme=dark)
  
+
 
 
 ##
 
 ## Ferramentas , Linguagens e Tecnologias utilizadas
-</br>
-
-
-<img height = '28em' src ='https://img.shields.io/static/v1?label=&message=Flutter&?style=for-the-badge&logo=flutter&color=black' alt ="Flutter">
-<img height = '28em' src ='https://img.shields.io/static/v1?label=&message=GIT&?style=for-the-badge&logo=git&color=black' alt ="Git">
-</br>
-<img height = '28em' src ='https://img.shields.io/static/v1?label=&message=HTML5&?style=for-the-badge&logo=Html5&color=black' alt ="HTML5">
-<img height = '28em' src ='https://img.shields.io/static/v1?label=&message=Javascript&?style=for-the-badge&logo=javascript&color=black' alt ="JavaScript">
-</br>
-<img height = '28em' src ='https://img.shields.io/static/v1?label=&message=C&?style=for-the-badge&logo=c&color=black' alt ="C">
-<img height = '28em' src ='https://img.shields.io/static/v1?label=&message=Visual Studio Code &?style=for-the-badge&logo=visualstudiocode&color=black' alt ="Visual Studio Code">
-</br>
-<img height = '28em' src ='https://img.shields.io/static/v1?label=&message=Adobe Photoshop &?style=for-the-badge&logo=adobephotoshop&color=black' alt ="Adobe Photoshop">
-<img height = '28em' src ='https://img.shields.io/static/v1?label=&message=Adobe Premiere Pro &?style=for-the-badge&logo=adobepremierepro&color=black' alt ="Adobe Premiere Pro">
-</br>
-<img height = '28em' src ='https://img.shields.io/static/v1?label=&message=Markdown&?style=for-the-badge&logo=markdown&color=black' alt ="Markdown">
 
  
+ ![Flutter](https://img.shields.io/static/v1?label=&message=Flutter&?style=for-the-badge&logo=flutter&color=black)
+ ![Git](https://img.shields.io/static/v1?label=&message=GIT&?style=for-the-badge&logo=git&color=black)
+ ![HTML5](https://img.shields.io/static/v1?label=&message=HTML5&?style=for-the-badge&logo=Html5&color=black)
+ ![JavaScript](https://img.shields.io/static/v1?label=&message=Javascript&?style=for-the-badge&logo=javascript&color=black)
+ ![C](https://img.shields.io/static/v1?label=&message=C&?style=for-the-badge&logo=c&color=black)
+ ![Markdown](https://img.shields.io/static/v1?label=&message=Markdown&?style=for-the-badge&logo=markdown&color=black)
+ ![VSCode](https://img.shields.io/static/v1?label=&message=Visual%20Studio%20Code&?style=for-the-badge&logo=visualstudiocode&color=black)
+ ![Adobe Photoshop](https://img.shields.io/static/v1?label=&message=Adobe%20Photoshop&?style=for-the-badge&logo=adobephotoshop&color=black)
+ ![Adobe Premiere Pro](https://img.shields.io/static/v1?label=&message=Adobe%20Premiere%20Pro&?style=for-the-badge&logo=adobepremierepro&color=black)
+  
+
 
 
 
 ## Ferramentas , Linguagens e Tecnologias a ser aprendidas
-<div align= 'center'>
-<img height = '28em' src ='https://img.shields.io/static/v1?label=&message=Amazon Web Service (AWS) &?style=for-the-badge&logo=AmazonAWS&color=black' alt ="AWS">
-<img height = '28em' src ='https://img.shields.io/static/v1?label=&message=Amazon Alexa &?style=for-the-badge&logo=AmazonAlexa&color=black' alt ="Alexa">
-</br>
-<img height = '28em' src ='https://img.shields.io/static/v1?label=&message=Python&?style=for-the-badge&logo=python&color=black' alt ="AWS">
-<img height = '28em' src ='https://img.shields.io/static/v1?label=&message=React Native&?style=for-the-badge&logo=react&color=black' alt ="Alexa">
-<img height = '28em' src ='https://img.shields.io/static/v1?label=&message=PHP&?style=for-the-badge&logo=php&color=black' alt ="PHP">
-</br>
+
+
+![AWS](https://img.shields.io/static/v1?label=&message=Amazon%20Web%20Service%20(AWS)&?style=for-the-badge&logo=AmazonAWS&color=black)
+![Amazon Alexa](https://img.shields.io/static/v1?label=&message=Amazon%20Alexa&?style=for-the-badge&logo=AmazonAlexa&color=black)
+![Python](https://img.shields.io/static/v1?label=&message=Python&?style=for-the-badge&logo=python&color=black)
+![React Native](https://img.shields.io/static/v1?label=&message=React%20Native&?style=for-the-badge&logo=react&color=black)
+![PHP](https://img.shields.io/static/v1?label=&message=PHP&?style=for-the-badge&logo=php&color=black)
+
 
 ##
 
