@@ -43,7 +43,7 @@
  ![Git](https://img.shields.io/static/v1?label=&message=GIT&?style=for-the-badge&logo=git&color=black)
  ![HTML5](https://img.shields.io/static/v1?label=&message=HTML5&?style=for-the-badge&logo=Html5&color=black)
  ![JavaScript](https://img.shields.io/static/v1?label=&message=Javascript&?style=for-the-badge&logo=javascript&color=black)
- ![C](https://img.shields.io/static/v1?label=&message=C&?style=for-the-badge&logo=c&color=black)
+ ![C](https://img.shields.io/static/v1?label=&message=Linguagem%20C&?style=for-the-badge&logo=c&color=black)
  ![Markdown](https://img.shields.io/static/v1?label=&message=Markdown&?style=for-the-badge&logo=markdown&color=black)
  ![VSCode](https://img.shields.io/static/v1?label=&message=Visual%20Studio%20Code&?style=for-the-badge&logo=visualstudiocode&color=black)
  ![Adobe Photoshop](https://img.shields.io/static/v1?label=&message=Adobe%20Photoshop&?style=for-the-badge&logo=adobephotoshop&color=black)
