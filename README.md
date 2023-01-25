@@ -29,8 +29,7 @@
  
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luccasmcarvalho&theme=dark)
  
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luccasmcarvalho&show_icons=true&count_private=true&theme=dark&include_all_commits=true)
- ![All Github Data](https://github-readme-streak-stats.herokuapp.com/?user=luccasmcarvalho&theme=dark)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luccasmcarvalho&show_icons=true&count_private=true&theme=dark&include_all_commits=true)  ![GitAccount](https://github-readme-streak-stats.herokuapp.com/?user=luccasmcarvalho&theme=dark)
  
 
 
