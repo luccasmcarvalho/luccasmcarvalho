@@ -6,7 +6,7 @@
 
 
 
-👋 👨‍💻 Me chamo Luccas Matheus tenho 26 anos, sou graduado em Bacharel de Ciência da Computação, sou desenvolvedor com preferência em atuar na área de Front-end, como hoobies sou editor, criador de conteúdo áudiovisual e brincando agora na área de streaming. Com ideias de incentivar a comunidade de desenvolvimento a mostrar e compartilhar conhecimentos através de livestrings programando!
+👋 👨‍💻 Me chamo Luccas Matheus tenho 26 anos, sou graduado em Bacharel de Ciência da Computação, sou desenvolvedor com preferência em atuar na área de Front-end, como hoobies sou editor, criador de conteúdo áudiovisual e brincando agora na área de streaming. Com ideias de incentivar a comunidade de desenvolvimento a mostrar e compartilhar conhecimentos através de livestreams programando!
 </br>
 
 ##
