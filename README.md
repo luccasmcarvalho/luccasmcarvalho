@@ -20,6 +20,14 @@
 
 ##
 
+## Projetos com Github Sponsors 
+
+[![Github Sponsors](https://img.shields.io/badge/Github%20Sponsors-Ajude--nos%20%20doando%20algo-brightgreen?style=for-the-badge)](https://github.com/sponsors/luccasmcarvalho)
+
+  > Projetos que estejam com o sistema de Sponsors (Patrocinador) ativo, refere-se ao um sistema onde poderá receber auxilio de qualquer usuário para ajuda de manutenção de código, ser citado no readme.md na lista de Patrocinadores do projeto, auxilio a ser um dos desenvolvedores com acesso a realização de push e pull no código fonte, e outras funções ainda a ser definida.
+
+##
+
 ## Sobre meu git 
 
 
@@ -76,5 +84,14 @@
  
        EM BREVE  
 
- </div>
 
+ 
+ ##
+ 
+ ### Lista de patrocinadores do projeto
+ 
+| Nome do Patrocinador | tempo de Sponsors | perfil do GitHub | Redes Sociais|
+|:---------: | :------: | :------:| :------:| 
+|Luccas Matheus | [![GitHub Sponsors Mes](https://img.shields.io/badge/Sponsors%20pelo-1º%20mês-black?style=for-the-badge)](#) | [![Twitter Sponsors 1](https://img.shields.io/badge/Github-%40luccasmcarvalho-black?style=for-the-badge&logo=github)](https://github.com/luccasmcarvalho/luccasmcarvalho)|
+
+ </div>
