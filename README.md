@@ -92,6 +92,6 @@
  
 | Nome do Patrocinador | tempo de Sponsors | perfil do GitHub | Redes Sociais|
 |:---------: | :------: | :------:| :------:| 
-|Luccas Matheus | [![GitHub Sponsors Mes](https://img.shields.io/badge/Sponsors%20pelo-1º%20mês-black?style=for-the-badge)](#) | [![Twitter Sponsors 1](https://img.shields.io/badge/Github-%40luccasmcarvalho-black?style=for-the-badge&logo=github)](https://github.com/luccasmcarvalho/luccasmcarvalho)|
+|Luccas Matheus | [![GitHub Sponsors Mes](https://img.shields.io/badge/Sponsors%20pelo-1º%20mês-black?style=for-the-badge)](#) | [![Twitter Sponsors 1](https://img.shields.io/badge/Github-%40luccasmcarvalho-black?style=for-the-badge&logo=github)](https://github.com/luccasmcarvalho/luccasmcarvalho)| *NULL*|
 
  </div>
