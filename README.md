@@ -7,7 +7,13 @@
 
 
 👋 👨‍💻 Me chamo Luccas Matheus tenho 26 anos, sou graduado em Bacharel de Ciência da Computação, sou desenvolvedor com preferência em atuar na área de Front-end, como hoobies sou editor, criador de conteúdo áudiovisual e brincando agora na área de streaming. Com ideias de incentivar a comunidade de desenvolvimento a mostrar e compartilhar conhecimentos através de livestreams programando!
-</br>
+
+ 
+ #### GUIA DE MENU
+
+| [Contacte-me](#onde-me-encontrar) | [Github Sponsors](#projetos-com-github-sponsors) | [Meu Git](#sobre-meu-git) | [Meus Conhecimentos](#ferramentas-linguagens-e-tecnologias-utilizadas) | [Conhecimentos a ser adquiridos](#ferramentas-linguagens-e-tecnologias-a-ser-aprendidas) | [Meus Projetos](#alguns-dos-meus-projetos) | [Projetos Contribuidos](#projetos-que-já-contribui-ou-contribuo) | [Lista de Sponsors](#lista-de-patrocinadores-do-projeto) |
+|:---------: | :------: | :------:| :------:| :------:| :------:| :------:| :------:|
+
 
 ##
 
@@ -44,7 +50,7 @@
 
 ##
 
-## Ferramentas , Linguagens e Tecnologias utilizadas
+## Ferramentas Linguagens e Tecnologias utilizadas
 
  
  ![Flutter](https://img.shields.io/static/v1?label=&message=Flutter&?style=for-the-badge&logo=flutter&color=black)
@@ -61,7 +67,7 @@
 
 
 
-## Ferramentas , Linguagens e Tecnologias a ser aprendidas
+## Ferramentas Linguagens e Tecnologias a ser aprendidas
 
 
 ![AWS](https://img.shields.io/static/v1?label=&message=Amazon%20Web%20Service%20(AWS)&?style=for-the-badge&logo=AmazonAWS&color=black)
